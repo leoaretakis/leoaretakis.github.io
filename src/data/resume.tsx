@@ -12,7 +12,8 @@ export const DATA = {
   summary: [
     "At the end of 2008, I started working with software development during my first year at the university. Since then I have worked in many business fields, from real state pricing software, industrial (metals & mining, oil & gas), education, and finance. Most of the time doing backend and frontend software development, with a few touches of data science and AI here and there.",
     "Nowadays I am proficient in Software architecture, Coding (mostly Ruby on Rails, React, Javascript, and Java), and Leading Tech teams.",
-    "My goal is to help people and businesses grow and achieve their potential, using the tools and tech I feel I can help with."
+    "My goal is to help people and businesses grow and achieve their potential, using the tools and tech I feel I can help with.",
+    "I am planning on become an enterpreneur, so if you know of any projects, or is interested in doing partnerships/networking, reach me out on the contacts section below!"
   ],
   avatarUrl: "/foto_linkedin.jpeg",
   skills: [
