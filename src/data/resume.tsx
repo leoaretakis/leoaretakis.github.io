@@ -33,7 +33,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "leoaretakis@gmail.com",
@@ -66,6 +66,12 @@ export const DATA = {
         icon: Icons.x,
 
         navbar: true,
+      },
+      Calendly: {
+        name: "Calendly",
+        url: 'https://calendly.com/leoaretakis/meet-new-companies',
+        // icon: Icons.x,
+        navbar: false
       },
       // Youtube: {
       //   name: "Youtube",
@@ -219,36 +225,20 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Buildspace",
-      href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
-      logoUrl: "/buildspace.jpg",
-      start: "2023",
-      end: "2024",
+      school: "Federal University of Pernambuco",
+      href: "http://www.ufpe.br/",
+      degree: "Bachelor Degree - Computer Engineering",
+      logoUrl: "/ufpe.jpeg",
+      start: "2004",
+      end: "2008",
     },
     {
-      school: "University of Waterloo",
-      href: "https://uwaterloo.ca",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "Wilfrid Laurier University",
-      href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
-      logoUrl: "/laurier.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "International Baccalaureate",
-      href: "https://ibo.org",
-      degree: "IB Diploma",
-      logoUrl: "/ib.png",
-      start: "2012",
-      end: "2016",
+      school: "PUC Rio de Janeiro",
+      href: "http://www.puc-rio.br/",
+      degree: "Master Degree - Telecommunication Engineering",
+      logoUrl: "/puc_rio.jpeg",
+      start: "2010",
+      end: "2013",
     },
   ],
   projects: [
