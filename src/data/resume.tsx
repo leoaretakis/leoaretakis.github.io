@@ -70,7 +70,7 @@ export const DATA = {
       Calendly: {
         name: "Calendly",
         url: 'https://calendly.com/leoaretakis/meet-new-companies',
-        // icon: Icons.x,
+        icon: Icons.calendly,
         navbar: false
       },
       // Youtube: {
